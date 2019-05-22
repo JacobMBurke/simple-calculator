@@ -1,2 +1,2 @@
 # simple-calculator
-# A simple project to demonstrate unit testing
+A simple project to demonstrate unit testing
